@@ -1,0 +1,11 @@
+aiogram
+asyncio
+aioschedule
+sqlalchemy
+faker
+psycopg2
+requests
+bs4
+lxml
+selenium
+selenium_stealth
