@@ -1,6 +1,7 @@
-# News-Telegram-Bot
 ![](https://img.shields.io/badge/author-Semion%20Shandruk-brightgreen) ![](https://img.shields.io/badge/language-Python-brightgreen) ![](https://img.shields.io/github/issues/Semion-Sh/Instagram-Bot-Winner) ![](https://img.shields.io/github/forks/Semion-Sh/Instagram-Bot-Winner) ![](https://img.shields.io/github/stars/Semion-Sh/Instagram-Bot-Winner)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/green?icon=github)](https://github.com/Naereen/badges/)
+
+# News-Telegram-Bot
 
 A bot that collects news from different sites and post them to the Telegram channel with administrator permission
 
